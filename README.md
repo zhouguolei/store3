@@ -1,2 +1,1 @@
-# store3
-firstfromlocalstore
+an example of akkarouter
